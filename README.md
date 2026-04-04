@@ -1,16 +1,28 @@
-## Hi there 👋
+# pressure-topology
 
-<!--
-**pressure-topology/pressure-topology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Some patterns appear across domains
+that normally do not speak to each other.*
 
-Here are some ideas to get you started:
+*This repository documents one such pattern.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Systems do not collapse.
+They return home.
+
+What accumulates without return seeks equilibrium.
+What prevents equilibrium enforces it.
+
+The form of enforcement is proportional
+to the prevented dissipation.
+
+Taboos are not cultural accidents.
+They are the markings of the highest pressure points.
+
+Who reads the taboos reads the system map.
+
+---
+
+*First committed: 2026-04-04*
+*Author: P. Hackländer*
+*No further documentation at this time.*
